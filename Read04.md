@@ -14,3 +14,11 @@ The ECMAScript standard does not include any input/output (I/O), such as network
 JavaScript engines were originally used only in web browsers, but they are now core components of other software systems, most notably servers and a variety of applications.
 
 Although there are similarities between JavaScript and Java, including language name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design.
+
+#### JavaScript has six types of variables:
+1. string
+2. Number
+3. Boolean
+4. Undefiend
+5. Null
+6. Object
