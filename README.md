@@ -5,7 +5,7 @@
 [Growth Mindset](GrowthMindset)
 
 | Readings   |      Links      | 
-|----------|:-------------:|------:|
+|----------|-------------|
 | Read: 02 - Revisions and the Cloud |  [Read02](Read02) | 
 | Read: 03 - Structure web pages with HTML | [Read03](Read03)  |  
 | Read: 04 - Dynamic web pages with JavaScript | [Read04](Rea04) |  
