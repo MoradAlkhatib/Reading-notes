@@ -1,5 +1,5 @@
 
-  ##        Revisions and the Cloud
+  ## Revisions and the Cloud
 
 ### Github
 is a provider of internet hosting for software development and control it using Git 
