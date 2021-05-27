@@ -1,7 +1,7 @@
 
- # Structure web pages with HTML
+# Structure web pages with HTML
 
- ## wireframe :
+## wireframe :
 it is Design Your page before start making it and it helping you make your changes
 easily . And you can use two way to do it once by hand or you can use tools Like Adobe XD
 they have a six step to help you to do wireframe.
