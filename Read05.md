@@ -2,7 +2,7 @@
 
 ### JavaScript has the following types of operators. This section describes the operators and contains information about operator precedence.
 | Types Of Opetators    |      Links to Help      | 
-|----------|-------------|
+|---------------------|-------------------------------|
 | Assignment operators |  [Assignment operators](https://www.w3schools.com/js/js_assignment.asp)| 
 | Comparison operators | [Comparison operators](https://www.w3schools.com/js/js_comparisons.asp)  |  
 | Arithmetic operators | [Arithmetic operators](https://www.w3schools.com/js/js_arithmetic.asp) |
