@@ -16,9 +16,11 @@
 11. Relational operators  [Relational operators](https://docstore.mik.ua/orelly/webprog/jscript/ch05_05.htm) 
 
 JavaScript has both binary and unary operators, and one special ternary operator, the conditional operator. A binary operator requires two operands, one before the operator and one after the operator:
+# Expressions
+An expression is any valid unit of code that resolves to a value.
+Every syntactically valid expression resolves to some value but conceptually, there are two types of expressions: with side effects (for example: those that assign value to a variable) and those that in some sense evaluate and therefore resolve to a value.
 
-
-# Lops
+# Loops
 
 #### In computer science, a loop is a programming structure that repeats a sequence of instructions until a specific condition is met. Programmers use loops to cycle through values, add sums of numbers, repeat functions, and many other things.
 
