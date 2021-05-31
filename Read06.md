@@ -12,7 +12,7 @@ The JavaScript statements that define the function, enclosed in curly brackets, 
 For example, the following code defines a simple function named square:
 
 ### function square(number) {
- ###  return number * number;
+   return number * number;
 ### }
 
 
@@ -35,9 +35,9 @@ In the past, the general strategy for setting defaults was to test parameter val
 In the following example, if no value is provided for b, its value would be undefined when evaluating a*b, and a call to multiply would normally have returned NaN. However, this is prevented by the second line in this example:
 
 ### function multiply(a, b) {
- ### b = typeof b !== 'undefined' ?  b : 1;
+  b = typeof b !== 'undefined' ?  b : 1;
 
- ### return a * b;
+  return a * b;
 ### }
 
 ### multiply(5); // 5
