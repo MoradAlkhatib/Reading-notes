@@ -1,7 +1,7 @@
 # CSS [Learn More](https://www.w3schools.com/css/)
- #### IS Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is, with a simple syntax example, and also covers some key terms about the language.
+#### IS Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is, with a simple syntax example, and also covers some key terms about the language.
 
- ## What is CSS for?
+## What is CSS for?
 ##### As we have mentioned before, CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
 
 ##### A document is usually a text file structured using a markup language — HTML is the most common markup language, but you may also come across other markup languages such as SVG or XML.
@@ -14,8 +14,8 @@
 ###### The following code shows a very simple CSS rule that would achieve the styling described above:
 
 ### h1 {
-  ### color: red;
-  ### font-size: 5em;
+### color: red;
+### font-size: 5em;
 ### }
 ###### The rule opens with a selector . This selects the HTML element that we are going to style. In this case we are styling level one headings (<h1>).
 
@@ -64,7 +64,7 @@ There are three ways of inserting a style sheet:
 #### <head>
 #### <style>
 #### body {
- ####  background-color: linen;
+####  background-color: linen;
 #### }
 
 #### h1 {
