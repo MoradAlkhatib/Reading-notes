@@ -5,7 +5,7 @@
 2. [SecondCourse](#SecondCourse)
 
 # FirstCourse
-| Readings of first course   |      Links      | 
+| Readings |      Links  | 
 |----------|-------------|
 | Read: 02 - Revisions and the Cloud |  [Read02](Read02) | 
 | Read: 03 - Structure web pages with HTML | [Read03](Read03)  |  
@@ -14,6 +14,6 @@
 
 
 # SecondCourse
-| Readings of econd course   |      Links      | 
+| Readings |      Links  | 
 |----------|-------------|
 | Read: 01 - Introductory HTML and JavaScript |  [Read001](Read001) | 
