@@ -16,4 +16,5 @@
 # SecondCourse
 | Readings |      Links  | 
 |----------|-------------|
-| Read: 01 - Introductory HTML and JavaScript |  [Read001](Read001) | 
+| Read: 001 - Introductory HTML and JavaScript |  [Read001](Read001) | 
+| Read: 002 -  HTML Text, CSS Introduction, and Basic JavaScript Instructions |  [Read002](Read002) |
