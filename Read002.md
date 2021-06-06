@@ -1,7 +1,7 @@
 
 # HTML,CSS,JavaScript
 ![alt text](https://th.bing.com/th/id/Ra911febe269376087e9cbc95037b0a93?rik=fRZMTBmZbDmxQg&pid=ImgRaw "title")
-# HTML
+# HTML [HTML](https://www.w3schools.com/html/)
 ## HTML is short for HyperText Markup Language.
 Hypertext is simply a piece of text that works as a link.
 
@@ -293,7 +293,7 @@ For example, the following scheme declaration may help a user agent determine th
 <META scheme="ISBN"  name="identifier" content="0-8230-2355-9">
 Values for the scheme attribute depend on the property name and the associated profile.
 
-# CSS
+# CSS [CSS](https://www.w3schools.com/Css/)
   Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2]
 
 CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.[3] This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file which reduces complexity and repetition in the structural content as well as enabling the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.
@@ -323,7 +323,7 @@ Selectors may be combined in many ways to achieve great specificity and flexibil
 
 The following table provides a summary of selector syntax indicating usage and the version of CSS that introduced it.[8]
   
- # Javascript
+ # Javascript [Javascript](https://www.w3schools.com/Js/)
   JavaScript (/ˈdʒɑːvəˌskrɪpt/),[8] often abbreviated as JS, is a programming language that conforms to the ECMAScript specification.[9] JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
 Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web.[10] Over 97% of websites use it client-side for web page behavior,[11] often incorporating third-party libraries.[12] All major web browsers have a dedicated JavaScript engine to execute the code on the user's device.
