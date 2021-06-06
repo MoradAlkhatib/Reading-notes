@@ -13,6 +13,9 @@
 | Read: 05 - Operators and Loops | [Read05](Read05) |  
 
 
+
+
+
 # SecondCourse
 | Readings |      Links  | 
 |----------|-------------|
