@@ -9,6 +9,7 @@
 | Read: 001 - Introductory HTML and JavaScript |  [Read001](Read001) | 
 | Read: 002 -  HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Read002](Read002)  |  
 | Read: 003 - Dynamic web pages with JavaScript | [Read003](Read003) |
+| Read: 004 - HTML Links, CSS Layout, JS Functions | [Read004](Read004) |
  
 
 
