@@ -11,7 +11,7 @@
 | Read: 003 - Dynamic web pages with JavaScript | [Read003](Read003) |
 | Read: 004 - HTML Links, CSS Layout, JS Functions | [Read004](Read004) |
 | Read: 005 - HTML Images; CSS Color & Text | [Read005](Read005) |
-| Read: 006 - JS Object Literals; The DOM | [Read006](Read006) |
+| Read: 006 - Problem Domain, Objects, and the DOM | [Read006](Read006) |
  
 
 
