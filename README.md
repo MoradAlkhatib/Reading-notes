@@ -12,6 +12,7 @@
 | Read: 004 - HTML Links, CSS Layout, JS Functions | [Read004](Read004) |
 | Read: 005 - HTML Images; CSS Color & Text | [Read005](Read005) |
 | Read: 006 - Problem Domain, Objects, and the DOM | [Read006](Read006) |
+| Read: 007 - HTML Tables; JS Constructor Functions | [Read007](Read007) |
  
 
 
