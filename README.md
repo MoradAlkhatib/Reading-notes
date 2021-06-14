@@ -13,6 +13,7 @@
 | Read: 005 - HTML Images; CSS Color & Text | [Read005](Read005) |
 | Read: 006 - Problem Domain, Objects, and the DOM | [Read006](Read006) |
 | Read: 007 - HTML Tables; JS Constructor Functions | [Read007](Read007) |
+| Read: 008 - More About CSS Layout | [Read008](Read008) |
  
 
 
