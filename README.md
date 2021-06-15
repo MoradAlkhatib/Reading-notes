@@ -14,6 +14,7 @@
 | Read: 006 - Problem Domain, Objects, and the DOM | [Read006](Read006) |
 | Read: 007 - HTML Tables; JS Constructor Functions | [Read007](Read007) |
 | Read: 008 - More About CSS Layout | [Read008](Read008) |
+| Read: 009 - Forms and JS Events | [Read009](Read009) |
  
 
 
