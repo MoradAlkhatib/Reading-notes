@@ -39,8 +39,8 @@ The form-handler is specified in the form's action attribute.
 Notice that each input field must have a name attribute to be submitted.
 
 If the name attribute is omitted, the value of the input field will not be sent at all.
-  # JavaScript Events
-  HTML Events
+# JavaScript Events
+## HTML Events
 An HTML event can be something the browser does, or something a user does.
 
 Here are some examples of HTML events:
@@ -79,8 +79,8 @@ HTML event attributes can execute JavaScript code directly
 HTML event attributes can call JavaScript functions
 You can assign your own event handler functions to HTML elements
 You can prevent events from being sent or being handled
-  # JavaScript HTML DOM Events
-  Reacting to Events
+# JavaScript HTML DOM Events
+Reacting to Events
 A JavaScript can be executed when an event occurs, like when a user clicks on an HTML element.
 
 To execute code when a user clicks on an element, add JavaScript code to an HTML event attribute:
@@ -96,7 +96,7 @@ Examples of HTML events:
 - When an HTML form is submitted
 - When a user strokes a key
   
-  The onload and onunload Events
+The onload and onunload Events
 The onload and onunload events are triggered when the user enters or leaves the page.
 
 The onload event can be used to check the visitor's browser type and browser version, and load the proper version of the web page based on the information.
