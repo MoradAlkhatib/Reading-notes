@@ -16,7 +16,8 @@
 | Read: 008 - More About CSS Layout | [Read008](Read008) |
 | Read: 009 - Forms and JS Events | [Read009](Read009) |
 | Read: 010 - JS Debugging        | [Read010](Read010) |
-| Read: 011 - Audio, Video, Images        | [Read011](Read011) |
+| Read: 011 - Audio, Video, Images     | [Read011](Read011) |
+| Read: 012 -  Chart.js, Canvas        | [Read012](Read012) |
  
 
 
