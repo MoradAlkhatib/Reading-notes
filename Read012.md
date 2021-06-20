@@ -12,11 +12,10 @@ Chart.js comes with the following built-in chart types:
 ### Chart.js is an open source JavaScript library. Using Chart.js, add animated, interactive graphs on your website.
 
 # What is HTML Canvas?
-### The HTML <canvas> element is used to draw graphics, on the fly, via scripting (usually JavaScript).
-
-### The <canvas> element is only a container for graphics. You must use a script to actually draw the graphics.
-
-###Canvas has several methods for drawing paths, boxes, circles, text, and adding images.
+The HTML <canvas> element is used to draw graphics, on the fly, via scripting (usually JavaScript).
+The <canvas> element is only a container for graphics. You must use a script to actually draw the graphics.
+Canvas has several methods for drawing paths, boxes, circles, text, and adding images.
+  
 ## HTML Canvas Can Draw Text
 Canvas can draw colorful text, with or without animation.
   
