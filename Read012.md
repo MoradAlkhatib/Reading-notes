@@ -36,7 +36,7 @@ Canvas' methods for animations, offer a lot of possibilities for HTML gaming app
 Canvas Example
 In HTML, a canvas element looks like this:
 
-canvas id="myCanvas" width="200" height="100"/canvas
+canvas id=myCanvas width=200 height=100canvas
 The canvas element must have an id attribute so it can be referred to by JavaScript.
 
 The width and height attribute is necessary to define the size of the canvas.
