@@ -51,6 +51,9 @@ Chart.js comes with the following built-in chart types:
 </script>
 </body>
 </html>
+
+
+
 # What is HTML Canvas?
 ### The HTML <canvas> element is used to draw graphics, on the fly, via scripting (usually JavaScript).
 
