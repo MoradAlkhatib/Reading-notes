@@ -18,6 +18,7 @@
 | Read: 010 - JS Debugging        | [Read010](Read010) |
 | Read: 011 - Audio, Video, Images     | [Read011](Read011) |
 | Read: 012 -  Chart.js, Canvas        | [Read012](Read012) |
+| Read: 013 -   Local Storage          | [Read013](Read013) |
  
 
 
