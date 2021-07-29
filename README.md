@@ -1,9 +1,32 @@
 # Reading
 ### My Name Is Murad Alkhatib I Have 24 Yaers Ago I Programmer I Have A Computer Informatin System Degree
 
+
 ## Cousre amman-code-201d28
+| Readings |      Links  | 
+|----------|-------------|
+| Read:    | [Read001](#) | 
+| Read:    | [Read002](#)  |  
+| Read:    | [Read003](#) |
+| Read:    | [Read004](#) |
+| Read:    | [Read005](#) |
+| Read:    | [Read006](#) |
+| Read:    | [Read007](#) |
+| Read:    | [Read008](#) |
+| Read:    | [Read009](#) |
+| Read:    | [Read010](#) |
+| Read:    | [Read011](#) |
+| Read:    | [Read012](#) |
+| Read:    | [Read013](#) |
+| Read:    | [Read014](#) |
+| Read     | [Read014b](#) |
+ 
 
 
+
+
+
+## Cousre amman-code-201d28
 | Readings |      Links  | 
 |----------|-------------|
 | Read: 001 - Introductory HTML and JavaScript |  [Read001](Read001) | 
