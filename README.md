@@ -7,7 +7,8 @@
 | Readings | Links  | 
 | :------------ |:---------------:| 
 | Read0001:Introduction to React and Components     | [Read0001](Read0001) | 
-| Read0002:  State and Props  |   [Read0002](Read0002) |       
+| Read0002:  State and Props  |   [Read0002](Read0002) |  
+| Read0003:Passing Functions as Props  |   [Read0003](Read0003) | 
 |      |           
 
 
