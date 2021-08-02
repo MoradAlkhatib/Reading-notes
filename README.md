@@ -8,9 +8,7 @@
 | :------------ |:---------------:| 
 | Read0001:Introduction to React and Components     | [Read0001](Read0001) | 
 | Read0002:  State and Props  |   [Read0002](Read0002) |  
-| Read0003:Passing Functions as Props  |   [Read0003](Read0003) | 
-|      |           
-
+| Read0003:Passing Functions as Props  |   [Read0003](Read0003) |      
 
 ## Cousre amman-code-201d28                                                
 
@@ -30,7 +28,6 @@
 | Read013      |[Read012](Read013)|
 
 
-
 ## Cousre amman-code-102d28
 | Readings | Links  |
 | :------------ |:---------------:| 
@@ -42,5 +39,3 @@
 | Read05        |[Read05](Read05)| 
 | Read06        |[Read06](Read06)| 
 | Read07        |[Read07](Read07)| 
-
-
