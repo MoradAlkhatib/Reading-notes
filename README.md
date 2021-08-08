@@ -12,6 +12,7 @@
 | Read0004:React and Forms             |   [Read0004](Read0004) |
 | Read0005:Putting it all together     |   [Read0005](Read0005) |
 | Read0006:Readings: NODE.JS           |   [Read0006](Read0006) |
+| Read0007:Readings: Rest              |   [Read0007](Read0007) |
 
 ## Cousre amman-code-201d28                                                
 
