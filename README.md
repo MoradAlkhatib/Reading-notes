@@ -14,6 +14,7 @@
 | Read0006:Readings: NODE.JS           |   [Read0006](Read0006) |
 | Read0007:Readings: Rest              |   [Read0007](Read0007) |
 | Read0008:Readings: APIs              |   [Read0008](Read0008) |
+| Read0009:FUNCTIONAL PROGRAMMING      |   [Read0009](Read0009) |
 
 ## Cousre amman-code-201d28                                                
 
