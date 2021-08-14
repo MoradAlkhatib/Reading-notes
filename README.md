@@ -16,6 +16,7 @@
 | Read0008:Readings: APIs              |   [Read0008](Read0008) |
 | Read0009:FUNCTIONAL PROGRAMMING      |   [Read0009](Read0009) |
 | Read0010:In memory storage           |   [Read0010](Read0010) |
+| Read0011:Readings:Authentication     |   [Read0011](Read0011) |
 
 ## Cousre amman-code-201d28                                                
 
