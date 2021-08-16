@@ -18,6 +18,7 @@
 | Read0010:In memory storage           |   [Read0010](Read0010) |
 | Read0011:Readings:Authentication     |   [Read0011](Read0011) |
 | Read0012:Mongo and Mongoose          |   [Read0012](Read0012) |
+| Read0013:Readings: CRUD              |   [Read0013](Read0013) |
 
 ## Cousre amman-code-201d28                                                
 
