@@ -19,6 +19,7 @@
 | Read0011:Readings:Authentication     |   [Read0011](Read0011) |
 | Read0012:Mongo and Mongoose          |   [Read0012](Read0012) |
 | Read0013:Readings: CRUD              |   [Read0013](Read0013) |
+| Read14:Diversity & Inclusion in the Tech Industry|   [Read0014](Read0014) |
 
 ## Cousre amman-code-201d28                                                
 
