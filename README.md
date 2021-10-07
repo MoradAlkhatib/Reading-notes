@@ -2,8 +2,8 @@
 ### My Name Is Murad Alkhatib I Have 24 Yaers Ago I Programmer I Have A Computer Informatin System Degree
 
 ## Cousre amman-code-python-401d6
-| readings | Links  |
-| :------------ |:---------------:| 
+| readings        | Links                  |
+| :------------ : |:---------------------: | 
 | Read00001:      | [Read00001](Read00001) | 
 | Read00002:      | link | 
 | Read00003:      | link | 
