@@ -3,9 +3,13 @@
 
 ## Cousre amman-code-python-401d6
                                                    
-| :------------|:--------------- |                                        
-| Read001      |[Read001](Read001)|                                          
-| Read003      |[Read002](Read002)|                                       
+| Readings | Links  | 
+| :------------ |:---------------:| 
+| Read0001:Introduction to React and Components     | [Read0001](Read0001) | 
+| Read0002:  State and Props  |   [Read0002](Read0002) |  
+| Read0003:Passing Functions as Props  |   [Read0003](Read0003) |      
+| Read0004:React and Forms             |   [Read0004](Read0004) |
+| Read0005:Putting it all together     |   [Read0005](Read0005) |                                    
 
   
 
