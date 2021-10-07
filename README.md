@@ -3,7 +3,7 @@
 
 ## Cousre amman-code-python-401d6
 | Readings | Links  | 
-| :------------ |:---------------:| 
+|------------|---------------| 
 | Read1:Big O Notation And Python Names and Values   | [Read00001](Read00001) | 
 | Read2  |   [Read0002](Read00002) |  
 | Read3 |   [Read00003](Read00003) |      
