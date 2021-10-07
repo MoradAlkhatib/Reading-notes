@@ -5,11 +5,11 @@
                                                    
 | Readings | Links  | 
 | :------------ |:---------------:| 
-| Read0001:Introduction to React and Components     | [Read0001](Read0001) | 
-| Read0002:  State and Props  |   [Read0002](Read0002) |  
-| Read0003:Passing Functions as Props  |   [Read0003](Read0003) |      
-| Read0004:React and Forms             |   [Read0004](Read0004) |
-| Read0005:Putting it all together     |   [Read0005](Read0005) |                                    
+| Read1:Big O Notition And Python Names and Values    | [Read1](Read00001) | 
+| Read2:     |   [Read2](Read00002) |  
+| Read3:   |   [Read3](Read00003) |      
+| Read4:           |   [Read4](Read00004) |
+| Read5:     |   [Read5](Read00005) |                                    
 
   
 
