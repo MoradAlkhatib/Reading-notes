@@ -4,7 +4,7 @@
 ## Cousre amman-code-python-401d6
 | readings | Links  |
 | :------------ |:---------------:| 
-| Read00001:      | link | 
+| Read00001:      | [Read00001](Read00001) | 
 | Read00002:      | link | 
 | Read00003:      | link | 
 | Read00004:      | link | 
