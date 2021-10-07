@@ -2,13 +2,11 @@
 ### My Name Is Murad Alkhatib I Have 24 Yaers Ago I Programmer I Have A Computer Informatin System Degree
 
 ## Cousre amman-code-python-401d6
-| Readings | Links  | 
-|------------|---------------| 
-| Read1:Big O Notation And Python Names and Values   | [Read00001](Read00001) | 
-| Read2  |   [Read0002](Read00002) |  
-| Read3 |   [Read00003](Read00003) |      
-| Read4           |   [Read00004](Read00004) |
-| Read5    |   [Read00005](Read00005) |
+| Readings  | Links  |                                                     
+| :------------ |:---------------:|                                        
+| Read001      |[Read001](Read001)|                                          
+| Read003      |[Read002](Read002)|                                       
+
   
 
 
