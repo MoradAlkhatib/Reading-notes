@@ -9,7 +9,14 @@
 | Read2: Testing and Modules    |   [Read2](Read00002) |  
 | Read3:FileIO & Exceptions   |   [Read3](Read00003) |      
 | Read4:  Topic         |   [Read4](Read00004) |
-| Read5:Implementation: Linked Lists     |   [Read5](Read00005) |                                    
+| Read5:Implementation: Linked Lists     |   [Read5](Read00005) |
+| Read6:Game of Greed 1    |   [Read6](Read00006) |
+| Read7:    |   [Read7](Read00007) | 
+| Read8:   |   [Read8](Read00008) | 
+| Read9:    |   [Read9](Read00009) | 
+| Read10:   |   [Read10](Read00010) | 
+| Read11:   |   [Read11](Read00011) | 
+
 
   
 
