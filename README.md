@@ -12,7 +12,7 @@
 | Read5:Implementation: Linked Lists     |   [Read5](Read00005) |
 | Read6:Game of Greed 1    |   [Read6](Read00006) |
 | Read7:Game of Greed 2    |   [Read7](Read00007) | 
-| Read8:   |   [Read8](Read00008) | 
+| Read8:Game of Greed 3   |   [Read8](Read00008) | 
 | Read9:    |   [Read9](Read00009) | 
 | Read10:   |   [Read10](Read00010) | 
 | Read11:   |   [Read11](Read00011) | 
