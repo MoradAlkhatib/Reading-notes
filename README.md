@@ -15,8 +15,12 @@
 | Read8:Game of Greed 3   |   [Read8](Read00008) | 
 | Read9:Game of Greed 4    |   [Read9](Read00009) | 
 | Read10: Stacks & Queues  |   [Read10](Read00010) | 
-| Read11:   |   [Read11](Read00011) | 
-
+| Read11:Data Analysis   |   [Read11](Read00011) | 
+| Read12:   |   [Read12](Read00012) | 
+| Read13:   |   [Read13](Read00013) | 
+| Read14:  |   [Read14](Read00014) | 
+| Read15:   |   [Read15](Read00015) | 
+| Read16:  |   [Read16](Read00016) | 
 
   
 
