@@ -18,7 +18,7 @@
 | Read11:Data Analysis   |   [Read11](Read00011) | 
 | Read12:Pandas in 10   |   [Read12](Read00012) | 
 | Read13:Linear Regression in Python   |   [Read13](Read00013) | 
-| Read14:  |   [Read14](Read00014) | 
+| Read14:Matplotlib Tutorial  |   [Read14](Read00014) | 
 | Read15:   |   [Read15](Read00015) | 
 | Read16:  |   [Read16](Read00016) | 
 
