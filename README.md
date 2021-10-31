@@ -21,6 +21,7 @@
 | Read14:Matplotlib Tutorial  |   [Read14](Read00014) | 
 | Read15:Trees   |   [Read15](Read00015) | 
 | Read16:Machine Learning  |   [Read16](Read00016) | 
+| Read17:Web Scraping  |   [Read16](Read00017) | 
 
   
 
