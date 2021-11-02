@@ -23,7 +23,7 @@
 | Read16:Machine Learning  |   [Read16](Read00016) | 
 | Read17:Web Scraping  |   [Read16](Read00017) | 
 | Read18:Cryptography |   [Read16](Read00018) | 
-
+| Read19:Regular expressions |   [Read19](Read00019) | 
 
   
 
