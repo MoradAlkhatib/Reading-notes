@@ -21,10 +21,10 @@
 | Read14:Matplotlib Tutorial  |   [Read14](Read00014) | 
 | Read15:Trees   |   [Read15](Read00015) | 
 | Read16:Machine Learning  |   [Read16](Read00016) | 
-| Read17:Web Scraping  |   [Read16](Read00017) | 
-| Read18:Cryptography |   [Read16](Read00018) | 
+| Read17:Web Scraping  |   [Read17](Read00017) | 
+| Read18:Cryptography |   [Read18](Read00018) | 
 | Read19:Regular expressions |   [Read19](Read00019) | 
-
+| Read26:Django |   [Read26](Read00026) | 
   
 
 
