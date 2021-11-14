@@ -25,6 +25,7 @@
 | Read18:Cryptography |   [Read18](Read00018) | 
 | Read19:Regular expressions |   [Read19](Read00019) | 
 | Read26:Django |   [Read26](Read00026) | 
+| Read27:Django Models |   [Read27](Read00027) | 
   
 
 
