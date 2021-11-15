@@ -26,7 +26,7 @@
 | Read19:Regular expressions |   [Read19](Read00019) | 
 | Read26:Django |   [Read26](Read00026) | 
 | Read27:Django Models |   [Read27](Read00027) | 
-  
+| Read28:Django CRUD and Forms |   [Read28](Read00028) |  
 
 
 
