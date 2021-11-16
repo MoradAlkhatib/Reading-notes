@@ -27,7 +27,7 @@
 | Read26:Django |   [Read26](Read00026) | 
 | Read27:Django Models |   [Read27](Read00027) | 
 | Read28:Django CRUD and Forms |   [Read28](Read00028) |  
-| Read29:Django Custom User |   [Read29](Read00029) |  
+| Read29:Django Custom User |   [Read29](Read29) |  
 
 
 
