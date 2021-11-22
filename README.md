@@ -31,6 +31,8 @@
 | Read30:Implementation: Hash Tables |   [Read30](Read30) |  
 | Read31:Django REST Framework |   [Read31](Read31) |  
 | Read32:Permissions & Postgresql |   [Read32](Read32) |
+| Read33:Authentication & Production Server |   [Read33](Read33) |
+
 
 ## Cousre amman-code-301d28
 
