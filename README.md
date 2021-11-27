@@ -34,6 +34,8 @@
 | Read33:Authentication & Production Server |   [Read33](Read33) |
 | Read34:API Deployment |   [Read34](Read34) |
 | Read35:Graphs|   [Read35](Read35) |
+| Read36:DSA Review|   [Read36](Read36) |
+
 
 ## Cousre amman-code-301d28
 
