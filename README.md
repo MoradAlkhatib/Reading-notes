@@ -38,6 +38,9 @@
 | Read37:React 1|   [Read37](Read37) |
 | Read38:React 2|   [Read38](Read38) |
 | Read39:React 3|   [Read39](Read39) |
+| Read41:React 4|   [Read41](Read41) |
+| Read42:Pythonisms|   [Read42](Read42) |
+
 
 ## Cousre amman-code-301d28
 
