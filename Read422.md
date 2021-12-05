@@ -144,5 +144,23 @@ Everything will become intelligent; soon we will not only have smart phones, but
 
 The field of artificial intelligence is, indeed, making breathtaking advances. In particular, it is contributing to the automation of data analysis. Artificial intelligence is no longer programmed line by line, but is now capable of learning, thereby continuously developing itself. Recently, Google's DeepMind algorithm taught itself how to win 49 Atari games. Algorithms can now recognize handwritten language and patterns almost as well as humans and even complete some tasks better than them. They are able to describe the contents of photos and videos. Today 70% of all financial transactions are performed by algorithms. News content is, in part, automatically generated. This all has radical economic consequences: in the coming 10 to 20 years around half of today's jobs will be threatened by algorithms. 40% of today's top 500 companies will have vanished in a decade.
 
+## Microsoft AI principles
+We put our responsible AI principles into practice through the Office of Responsible AI (ORA), the AI, Ethics, and Effects in Engineering and Research (Aether) Committee, and Responsible AI Strategy in Engineering (RAISE).  The Aether Committee advises our leadership on the challenges and opportunities presented by AI innovations. ORA sets our rules and governance processes, working closely with teams across the company to enable the effort. RAISE is a team that enables the implementation of Microsoft responsible AI rules across engineering groups.
 
+## Ethical OS Toolkit
+As technologists, it’s only natural that we spend most of our time focusing on how our tech will change the world for the better. Which is great. Everyone loves a sunny disposition. But perhaps it’s more useful, in some ways, to consider the glass half empty. What if, in addition to fantasizing about how our tech will save the world, we spent some time dreading all the ways it might, possibly, perhaps, just maybe, screw everything up? No one can predict exactly what tomorrow will bring (though somewhere in the tech world, someone is no doubt working on it). So until we get that crystal ball app, the best we can hope to do is anticipate the long-term social impact and unexpected uses of the tech we create today.
+
+
+If the technology you’re building right now will some day be used in unexpected ways, how can you hope to be prepared? What new categories of risk should you pay special attention to now? And which design, team or business model choices can actively safeguard users, communities, society, and your company from future risk?
+
+The last thing you want is to get blindsided by a future YOU helped create. The Ethical OS is here to help you see more clearly.
+
+## AI at Google: our principles
+At its heart, AI is computer programming that learns and adapts. It can’t solve every problem, but its potential to improve our lives is profound. At Google, we use AI to make products more useful—from email that’s spam-free and easier to compose, to a digital assistant you can speak to naturally, to photos that pop the fun stuff out for you to enjoy.
+
+Beyond our products, we’re using AI to help people tackle urgent problems. A pair of high school students are building AI-powered sensors to predict the risk of wildfires. Farmers are using it to monitor the health of their herds. Doctors are starting to use AI to help diagnose cancer and prevent blindness. These clear benefits are why Google invests heavily in AI research and development, and makes AI technologies widely available to others via our tools and open-source code.
+
+We recognize that such powerful technology raises equally powerful questions about its use. How AI is developed and used will have a significant impact on society for many years to come. As a leader in AI, we feel a deep responsibility to get this right. So today, we’re announcing seven principles to guide our work going forward. These are not theoretical concepts; they are concrete standards that will actively govern our research and product development and will impact our business decisions.
+
+We acknowledge that this area is dynamic and evolving, and we will approach our work with humility, a commitment to internal and external engagement, and a willingness to adapt our approach as we learn over time.
 
